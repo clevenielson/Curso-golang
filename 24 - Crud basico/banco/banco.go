@@ -3,7 +3,7 @@ package main
 import (
   "database/sql"
 
-  _ "github.com/go-sql-driver/msql"
+  _ "github.com/go-sql-driver/mysql"
 )
 
 // Conectar abre a conexao com o banco de dados
